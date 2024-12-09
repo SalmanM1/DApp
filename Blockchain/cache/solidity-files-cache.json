@@ -1,0 +1,149 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\szain\\OneDrive\\Desktop\\DApp Project for Blockchain Technologies\\myDApp\\contracts\\Fundraising.sol": {
+      "lastModificationDate": 1733204942509,
+      "contentHash": "e3466125d62a1e20a1d9cf74bb49eda5",
+      "sourceName": "contracts/Fundraising.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Fundraising"
+      ]
+    },
+    "C:\\Users\\szain\\OneDrive\\Desktop\\DApp Project for Blockchain Technologies\\myDApp\\contracts\\Lock.sol": {
+      "lastModificationDate": 1728243099750,
+      "contentHash": "6f5dbc13c93413090e2ae6302ac7491d",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "C:\\Users\\szain\\OneDrive\\Desktop\\DApp Project for Blockchain Technologies\\myDApp\\contracts\\ZakatDonation.sol": {
+      "lastModificationDate": 1733204939494,
+      "contentHash": "84ce8614d2905c334d252fce4750596d",
+      "sourceName": "contracts/ZakatDonation.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ZakatDonation"
+      ]
+    },
+    "C:\\Users\\szain\\OneDrive\\Desktop\\DApp Project for Blockchain Technologies\\myDApp\\contracts\\Token.sol": {
+      "lastModificationDate": 1733206527612,
+      "contentHash": "244c03c306bbf15af52d2646139c54f0",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MyToken"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  margin: 20px;
+}
+
+nav button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+section {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  color: #333;
+}
+
+form {
+  margin: 10px 0;
+}
+
+form input, form select {
+  margin: 5px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+form button {
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+p {
+  color: #555;
+}
